@@ -2,6 +2,8 @@
 
 This document demonstrates the working contract upgrade system.
 
+![Demo Screenshot](assets/demo_screenshot.png)
+
 ## Demo Script
 A script `scripts/demo_upgrade.sh` has been created to automate the following steps:
 1.  Build Version 1 of the contract.
